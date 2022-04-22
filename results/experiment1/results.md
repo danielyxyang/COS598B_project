@@ -17,105 +17,51 @@
 
 #### GaussianExperiment_3_size6_exact
 ##### seed 0
-<img src="GaussianExperiment_3_size6_exact_20220415-224811/0_LogisticRegression_exact/plot_dataset.png" width="200" alt="0_LogisticRegression_exact">
-<img src="GaussianExperiment_3_size6_exact_20220415-224811/3_LinearSVC_exact/plot_dataset.png" width="200" alt="3_LinearSVC_exact">
-<img src="GaussianExperiment_3_size6_exact_20220415-224811/6_SVC_rbf_exact/plot_dataset.png" width="200" alt="6_SVC_rbf_exact">
-<img src="GaussianExperiment_3_size6_exact_20220415-224811/9_MLPClassifier_exact/plot_dataset.png" width="200" alt="9_MLPClassifier_exact">
+<img src="GaussianExperiment_3_size6_exact_20220415-224811/0_LogisticRegression_exact/plot_dataset.png" width="200" alt="0_LogisticRegression_exact"><img src="GaussianExperiment_3_size6_exact_20220415-224811/3_LinearSVC_exact/plot_dataset.png" width="200" alt="3_LinearSVC_exact"><img src="GaussianExperiment_3_size6_exact_20220415-224811/6_SVC_rbf_exact/plot_dataset.png" width="200" alt="6_SVC_rbf_exact"><img src="GaussianExperiment_3_size6_exact_20220415-224811/9_MLPClassifier_exact/plot_dataset.png" width="200" alt="9_MLPClassifier_exact">
 
-<img src="GaussianExperiment_3_size6_exact_20220415-224811/0_LogisticRegression_exact/plot_shapley_values.png" width="200" alt="0_LogisticRegression_exact">
-<img src="GaussianExperiment_3_size6_exact_20220415-224811/3_LinearSVC_exact/plot_shapley_values.png" width="200" alt="3_LinearSVC_exact">
-<img src="GaussianExperiment_3_size6_exact_20220415-224811/6_SVC_rbf_exact/plot_shapley_values.png" width="200" alt="6_SVC_rbf_exact">
-<img src="GaussianExperiment_3_size6_exact_20220415-224811/9_MLPClassifier_exact/plot_shapley_values.png" width="200" alt="9_MLPClassifier_exact">
+<img src="GaussianExperiment_3_size6_exact_20220415-224811/0_LogisticRegression_exact/plot_shapley_values.png" width="200" alt="0_LogisticRegression_exact"><img src="GaussianExperiment_3_size6_exact_20220415-224811/3_LinearSVC_exact/plot_shapley_values.png" width="200" alt="3_LinearSVC_exact"><img src="GaussianExperiment_3_size6_exact_20220415-224811/6_SVC_rbf_exact/plot_shapley_values.png" width="200" alt="6_SVC_rbf_exact"><img src="GaussianExperiment_3_size6_exact_20220415-224811/9_MLPClassifier_exact/plot_shapley_values.png" width="200" alt="9_MLPClassifier_exact">
 
 ##### seed 1
-<img src="GaussianExperiment_3_size6_exact_20220415-224811/1_LogisticRegression_exact/plot_dataset.png" width="200" alt="_LogisticRegression_exact">
-<img src="GaussianExperiment_3_size6_exact_20220415-224811/4_LinearSVC_exact/plot_dataset.png" width="200" alt="_LinearSVC_exact">
-<img src="GaussianExperiment_3_size6_exact_20220415-224811/7_SVC_rbf_exact/plot_dataset.png" width="200" alt="_SVC_rbf_exact">
-<img src="GaussianExperiment_3_size6_exact_20220415-224811/10_MLPClassifier_exact/plot_dataset.png" width="200" alt="_MLPClassifier_exact">
+<img src="GaussianExperiment_3_size6_exact_20220415-224811/1_LogisticRegression_exact/plot_dataset.png" width="200" alt="_LogisticRegression_exact"><img src="GaussianExperiment_3_size6_exact_20220415-224811/4_LinearSVC_exact/plot_dataset.png" width="200" alt="_LinearSVC_exact"><img src="GaussianExperiment_3_size6_exact_20220415-224811/7_SVC_rbf_exact/plot_dataset.png" width="200" alt="_SVC_rbf_exact"><img src="GaussianExperiment_3_size6_exact_20220415-224811/10_MLPClassifier_exact/plot_dataset.png" width="200" alt="_MLPClassifier_exact">
 
-<img src="GaussianExperiment_3_size6_exact_20220415-224811/1_LogisticRegression_exact/plot_shapley_values.png" width="200" alt="1_LogisticRegression_exact">
-<img src="GaussianExperiment_3_size6_exact_20220415-224811/4_LinearSVC_exact/plot_shapley_values.png" width="200" alt="4_LinearSVC_exact">
-<img src="GaussianExperiment_3_size6_exact_20220415-224811/7_SVC_rbf_exact/plot_shapley_values.png" width="200" alt="7_SVC_rbf_exact">
-<img src="GaussianExperiment_3_size6_exact_20220415-224811/10_MLPClassifier_exact/plot_shapley_values.png" width="200" alt="10_MLPClassifier_exact">
+<img src="GaussianExperiment_3_size6_exact_20220415-224811/1_LogisticRegression_exact/plot_shapley_values.png" width="200" alt="1_LogisticRegression_exact"><img src="GaussianExperiment_3_size6_exact_20220415-224811/4_LinearSVC_exact/plot_shapley_values.png" width="200" alt="4_LinearSVC_exact"><img src="GaussianExperiment_3_size6_exact_20220415-224811/7_SVC_rbf_exact/plot_shapley_values.png" width="200" alt="7_SVC_rbf_exact"><img src="GaussianExperiment_3_size6_exact_20220415-224811/10_MLPClassifier_exact/plot_shapley_values.png" width="200" alt="10_MLPClassifier_exact">
 
 ##### seed 2
-<img src="GaussianExperiment_3_size6_exact_20220415-224811/2_LogisticRegression_exact/plot_dataset.png" width="200" alt="2_LogisticRegression_exact">
-<img src="GaussianExperiment_3_size6_exact_20220415-224811/5_LinearSVC_exact/plot_dataset.png" width="200" alt="5_LinearSVC_exact">
-<img src="GaussianExperiment_3_size6_exact_20220415-224811/8_SVC_rbf_exact/plot_dataset.png" width="200" alt="8_SVC_rbf_exact">
-<img src="GaussianExperiment_3_size6_exact_20220415-224811/11_MLPClassifier_exact/plot_dataset.png" width="200" alt="11_MLPClassifier_exact">
+<img src="GaussianExperiment_3_size6_exact_20220415-224811/2_LogisticRegression_exact/plot_dataset.png" width="200" alt="2_LogisticRegression_exact"><img src="GaussianExperiment_3_size6_exact_20220415-224811/5_LinearSVC_exact/plot_dataset.png" width="200" alt="5_LinearSVC_exact"><img src="GaussianExperiment_3_size6_exact_20220415-224811/8_SVC_rbf_exact/plot_dataset.png" width="200" alt="8_SVC_rbf_exact"><img src="GaussianExperiment_3_size6_exact_20220415-224811/11_MLPClassifier_exact/plot_dataset.png" width="200" alt="11_MLPClassifier_exact">
 
-<img src="GaussianExperiment_3_size6_exact_20220415-224811/2_LogisticRegression_exact/plot_shapley_values.png" width="200" alt="2_LogisticRegression_exact">
-<img src="GaussianExperiment_3_size6_exact_20220415-224811/5_LinearSVC_exact/plot_shapley_values.png" width="200" alt="5_LinearSVC_exact">
-<img src="GaussianExperiment_3_size6_exact_20220415-224811/8_SVC_rbf_exact/plot_shapley_values.png" width="200" alt="8_SVC_rbf_exact">
-<img src="GaussianExperiment_3_size6_exact_20220415-224811/11_MLPClassifier_exact/plot_shapley_values.png" width="200" alt="11_MLPClassifier_exact">
+<img src="GaussianExperiment_3_size6_exact_20220415-224811/2_LogisticRegression_exact/plot_shapley_values.png" width="200" alt="2_LogisticRegression_exact"><img src="GaussianExperiment_3_size6_exact_20220415-224811/5_LinearSVC_exact/plot_shapley_values.png" width="200" alt="5_LinearSVC_exact"><img src="GaussianExperiment_3_size6_exact_20220415-224811/8_SVC_rbf_exact/plot_shapley_values.png" width="200" alt="8_SVC_rbf_exact"><img src="GaussianExperiment_3_size6_exact_20220415-224811/11_MLPClassifier_exact/plot_shapley_values.png" width="200" alt="11_MLPClassifier_exact">
 
 #### GaussianExperiment_4_size8_exact
 ##### seed 0
-<img src="GaussianExperiment_4_size8_exact_20220415-224811/0_LogisticRegression_exact/plot_dataset.png" width="200" alt="0_LogisticRegression_exact">
-<img src="GaussianExperiment_4_size8_exact_20220415-224811/3_LinearSVC_exact/plot_dataset.png" width="200" alt="3_LinearSVC_exact">
-<img src="GaussianExperiment_4_size8_exact_20220415-224811/6_SVC_rbf_exact/plot_dataset.png" width="200" alt="6_SVC_rbf_exact">
-<img src="GaussianExperiment_4_size8_exact_20220415-224811/9_MLPClassifier_exact/plot_dataset.png" width="200" alt="9_MLPClassifier_exact">
+<img src="GaussianExperiment_4_size8_exact_20220415-224811/0_LogisticRegression_exact/plot_dataset.png" width="200" alt="0_LogisticRegression_exact"><img src="GaussianExperiment_4_size8_exact_20220415-224811/3_LinearSVC_exact/plot_dataset.png" width="200" alt="3_LinearSVC_exact"><img src="GaussianExperiment_4_size8_exact_20220415-224811/6_SVC_rbf_exact/plot_dataset.png" width="200" alt="6_SVC_rbf_exact"><img src="GaussianExperiment_4_size8_exact_20220415-224811/9_MLPClassifier_exact/plot_dataset.png" width="200" alt="9_MLPClassifier_exact">
 
-<img src="GaussianExperiment_4_size8_exact_20220415-224811/0_LogisticRegression_exact/plot_shapley_values.png" width="200" alt="0_LogisticRegression_exact">
-<img src="GaussianExperiment_4_size8_exact_20220415-224811/3_LinearSVC_exact/plot_shapley_values.png" width="200" alt="3_LinearSVC_exact">
-<img src="GaussianExperiment_4_size8_exact_20220415-224811/6_SVC_rbf_exact/plot_shapley_values.png" width="200" alt="6_SVC_rbf_exact">
-<img src="GaussianExperiment_4_size8_exact_20220415-224811/9_MLPClassifier_exact/plot_shapley_values.png" width="200" alt="9_MLPClassifier_exact">
+<img src="GaussianExperiment_4_size8_exact_20220415-224811/0_LogisticRegression_exact/plot_shapley_values.png" width="200" alt="0_LogisticRegression_exact"><img src="GaussianExperiment_4_size8_exact_20220415-224811/3_LinearSVC_exact/plot_shapley_values.png" width="200" alt="3_LinearSVC_exact"><img src="GaussianExperiment_4_size8_exact_20220415-224811/6_SVC_rbf_exact/plot_shapley_values.png" width="200" alt="6_SVC_rbf_exact"><img src="GaussianExperiment_4_size8_exact_20220415-224811/9_MLPClassifier_exact/plot_shapley_values.png" width="200" alt="9_MLPClassifier_exact">
 
 ##### seed 1
-<img src="GaussianExperiment_4_size8_exact_20220415-224811/1_LogisticRegression_exact/plot_dataset.png" width="200" alt="1_LogisticRegression_exact">
-<img src="GaussianExperiment_4_size8_exact_20220415-224811/4_LinearSVC_exact/plot_dataset.png" width="200" alt="4_LinearSVC_exact">
-<img src="GaussianExperiment_4_size8_exact_20220415-224811/7_SVC_rbf_exact/plot_dataset.png" width="200" alt="7_SVC_rbf_exact">
-<img src="GaussianExperiment_4_size8_exact_20220415-224811/10_MLPClassifier_exact/plot_dataset.png" width="200" alt="10_MLPClassifier_exact">
+<img src="GaussianExperiment_4_size8_exact_20220415-224811/1_LogisticRegression_exact/plot_dataset.png" width="200" alt="1_LogisticRegression_exact"><img src="GaussianExperiment_4_size8_exact_20220415-224811/4_LinearSVC_exact/plot_dataset.png" width="200" alt="4_LinearSVC_exact"><img src="GaussianExperiment_4_size8_exact_20220415-224811/7_SVC_rbf_exact/plot_dataset.png" width="200" alt="7_SVC_rbf_exact"><img src="GaussianExperiment_4_size8_exact_20220415-224811/10_MLPClassifier_exact/plot_dataset.png" width="200" alt="10_MLPClassifier_exact">
 
-<img src="GaussianExperiment_4_size8_exact_20220415-224811/1_LogisticRegression_exact/plot_shapley_values.png" width="200" alt="1_LogisticRegression_exact">
-<img src="GaussianExperiment_4_size8_exact_20220415-224811/4_LinearSVC_exact/plot_shapley_values.png" width="200" alt="4_LinearSVC_exact">
-<img src="GaussianExperiment_4_size8_exact_20220415-224811/7_SVC_rbf_exact/plot_shapley_values.png" width="200" alt="7_SVC_rbf_exact">
-<img src="GaussianExperiment_4_size8_exact_20220415-224811/10_MLPClassifier_exact/plot_shapley_values.png" width="200" alt="10_MLPClassifier_exact">
+<img src="GaussianExperiment_4_size8_exact_20220415-224811/1_LogisticRegression_exact/plot_shapley_values.png" width="200" alt="1_LogisticRegression_exact"><img src="GaussianExperiment_4_size8_exact_20220415-224811/4_LinearSVC_exact/plot_shapley_values.png" width="200" alt="4_LinearSVC_exact"><img src="GaussianExperiment_4_size8_exact_20220415-224811/7_SVC_rbf_exact/plot_shapley_values.png" width="200" alt="7_SVC_rbf_exact"><img src="GaussianExperiment_4_size8_exact_20220415-224811/10_MLPClassifier_exact/plot_shapley_values.png" width="200" alt="10_MLPClassifier_exact">
 
 ##### seed 2
-<img src="GaussianExperiment_4_size8_exact_20220415-224811/2_LogisticRegression_exact/plot_dataset.png" width="200" alt="2_LogisticRegression_exact">
-<img src="GaussianExperiment_4_size8_exact_20220415-224811/5_LinearSVC_exact/plot_dataset.png" width="200" alt="5_LinearSVC_exact">
-<img src="GaussianExperiment_4_size8_exact_20220415-224811/8_SVC_rbf_exact/plot_dataset.png" width="200" alt="8_SVC_rbf_exact">
-<img src="GaussianExperiment_4_size8_exact_20220415-224811/11_MLPClassifier_exact/plot_dataset.png" width="200" alt="11_MLPClassifier_exact">
+<img src="GaussianExperiment_4_size8_exact_20220415-224811/2_LogisticRegression_exact/plot_dataset.png" width="200" alt="2_LogisticRegression_exact"><img src="GaussianExperiment_4_size8_exact_20220415-224811/5_LinearSVC_exact/plot_dataset.png" width="200" alt="5_LinearSVC_exact"><img src="GaussianExperiment_4_size8_exact_20220415-224811/8_SVC_rbf_exact/plot_dataset.png" width="200" alt="8_SVC_rbf_exact"><img src="GaussianExperiment_4_size8_exact_20220415-224811/11_MLPClassifier_exact/plot_dataset.png" width="200" alt="11_MLPClassifier_exact">
 
-<img src="GaussianExperiment_4_size8_exact_20220415-224811/2_LogisticRegression_exact/plot_shapley_values.png" width="200" alt="2_LogisticRegression_exact">
-<img src="GaussianExperiment_4_size8_exact_20220415-224811/5_LinearSVC_exact/plot_shapley_values.png" width="200" alt="5_LinearSVC_exact">
-<img src="GaussianExperiment_4_size8_exact_20220415-224811/8_SVC_rbf_exact/plot_shapley_values.png" width="200" alt="8_SVC_rbf_exact">
-<img src="GaussianExperiment_4_size8_exact_20220415-224811/11_MLPClassifier_exact/plot_shapley_values.png" width="200" alt="11_MLPClassifier_exact">
+<img src="GaussianExperiment_4_size8_exact_20220415-224811/2_LogisticRegression_exact/plot_shapley_values.png" width="200" alt="2_LogisticRegression_exact"><img src="GaussianExperiment_4_size8_exact_20220415-224811/5_LinearSVC_exact/plot_shapley_values.png" width="200" alt="5_LinearSVC_exact"><img src="GaussianExperiment_4_size8_exact_20220415-224811/8_SVC_rbf_exact/plot_shapley_values.png" width="200" alt="8_SVC_rbf_exact"><img src="GaussianExperiment_4_size8_exact_20220415-224811/11_MLPClassifier_exact/plot_shapley_values.png" width="200" alt="11_MLPClassifier_exact">
 
 #### GaussianExperiment_1_size10_exact
 ##### seed 0
-<img src="GaussianExperiment_1_size10_exact_20220415-224757/0_LogisticRegression_exact/plot_dataset.png" width="200" alt="0_LogisticRegression_exact">
-<img src="GaussianExperiment_1_size10_exact_20220415-224757/3_LinearSVC_exact/plot_dataset.png" width="200" alt="3_LinearSVC_exact">
-<img src="GaussianExperiment_1_size10_exact_20220415-224757/6_SVC_rbf_exact/plot_dataset.png" width="200" alt="6_SVC_rbf_exact">
-<img src="GaussianExperiment_1_size10_exact_20220415-224757/9_MLPClassifier_exact/plot_dataset.png" width="200" alt="9_MLPClassifier_exact">
+<img src="GaussianExperiment_1_size10_exact_20220415-224757/0_LogisticRegression_exact/plot_dataset.png" width="200" alt="0_LogisticRegression_exact"><img src="GaussianExperiment_1_size10_exact_20220415-224757/3_LinearSVC_exact/plot_dataset.png" width="200" alt="3_LinearSVC_exact"><img src="GaussianExperiment_1_size10_exact_20220415-224757/6_SVC_rbf_exact/plot_dataset.png" width="200" alt="6_SVC_rbf_exact"><img src="GaussianExperiment_1_size10_exact_20220415-224757/9_MLPClassifier_exact/plot_dataset.png" width="200" alt="9_MLPClassifier_exact">
 
-<img src="GaussianExperiment_1_size10_exact_20220415-224757/0_LogisticRegression_exact/plot_shapley_values.png" width="200" alt="0_LogisticRegression_exact">
-<img src="GaussianExperiment_1_size10_exact_20220415-224757/3_LinearSVC_exact/plot_shapley_values.png" width="200" alt="3_LinearSVC_exact">
-<img src="GaussianExperiment_1_size10_exact_20220415-224757/6_SVC_rbf_exact/plot_shapley_values.png" width="200" alt="6_SVC_rbf_exact">
-<img src="GaussianExperiment_1_size10_exact_20220415-224757/9_MLPClassifier_exact/plot_shapley_values.png" width="200" alt="9_MLPClassifier_exact">
+<img src="GaussianExperiment_1_size10_exact_20220415-224757/0_LogisticRegression_exact/plot_shapley_values.png" width="200" alt="0_LogisticRegression_exact"><img src="GaussianExperiment_1_size10_exact_20220415-224757/3_LinearSVC_exact/plot_shapley_values.png" width="200" alt="3_LinearSVC_exact"><img src="GaussianExperiment_1_size10_exact_20220415-224757/6_SVC_rbf_exact/plot_shapley_values.png" width="200" alt="6_SVC_rbf_exact"><img src="GaussianExperiment_1_size10_exact_20220415-224757/9_MLPClassifier_exact/plot_shapley_values.png" width="200" alt="9_MLPClassifier_exact">
 
 ##### seed 1
-<img src="GaussianExperiment_1_size10_exact_20220415-224757/1_LogisticRegression_exact/plot_dataset.png" width="200" alt="1_LogisticRegression_exact">
-<img src="GaussianExperiment_1_size10_exact_20220415-224757/4_LinearSVC_exact/plot_dataset.png" width="200" alt="4_LinearSVC_exact">
-<img src="GaussianExperiment_1_size10_exact_20220415-224757/7_SVC_rbf_exact/plot_dataset.png" width="200" alt="7_SVC_rbf_exact">
-<img src="GaussianExperiment_1_size10_exact_20220415-224757/10_MLPClassifier_exact/plot_dataset.png" width="200" alt="10_MLPClassifier_exact">
+<img src="GaussianExperiment_1_size10_exact_20220415-224757/1_LogisticRegression_exact/plot_dataset.png" width="200" alt="1_LogisticRegression_exact"><img src="GaussianExperiment_1_size10_exact_20220415-224757/4_LinearSVC_exact/plot_dataset.png" width="200" alt="4_LinearSVC_exact"><img src="GaussianExperiment_1_size10_exact_20220415-224757/7_SVC_rbf_exact/plot_dataset.png" width="200" alt="7_SVC_rbf_exact"><img src="GaussianExperiment_1_size10_exact_20220415-224757/10_MLPClassifier_exact/plot_dataset.png" width="200" alt="10_MLPClassifier_exact">
 
-<img src="GaussianExperiment_1_size10_exact_20220415-224757/1_LogisticRegression_exact/plot_shapley_values.png" width="200" alt="1_LogisticRegression_exact">
-<img src="GaussianExperiment_1_size10_exact_20220415-224757/4_LinearSVC_exact/plot_shapley_values.png" width="200" alt="4_LinearSVC_exact">
-<img src="GaussianExperiment_1_size10_exact_20220415-224757/7_SVC_rbf_exact/plot_shapley_values.png" width="200" alt="7_SVC_rbf_exact">
-<img src="GaussianExperiment_1_size10_exact_20220415-224757/10_MLPClassifier_exact/plot_shapley_values.png" width="200" alt="10_MLPClassifier_exact">
+<img src="GaussianExperiment_1_size10_exact_20220415-224757/1_LogisticRegression_exact/plot_shapley_values.png" width="200" alt="1_LogisticRegression_exact"><img src="GaussianExperiment_1_size10_exact_20220415-224757/4_LinearSVC_exact/plot_shapley_values.png" width="200" alt="4_LinearSVC_exact"><img src="GaussianExperiment_1_size10_exact_20220415-224757/7_SVC_rbf_exact/plot_shapley_values.png" width="200" alt="7_SVC_rbf_exact"><img src="GaussianExperiment_1_size10_exact_20220415-224757/10_MLPClassifier_exact/plot_shapley_values.png" width="200" alt="10_MLPClassifier_exact">
 
 ##### seed 2
-<img src="GaussianExperiment_1_size10_exact_20220415-224757/2_LogisticRegression_exact/plot_dataset.png" width="200" alt="2_LogisticRegression_exact">
-<img src="GaussianExperiment_1_size10_exact_20220415-224757/5_LinearSVC_exact/plot_dataset.png" width="200" alt="5_LinearSVC_exact">
-<img src="GaussianExperiment_1_size10_exact_20220415-224757/8_SVC_rbf_exact/plot_dataset.png" width="200" alt="8_SVC_rbf_exact">
-<img src="GaussianExperiment_1_size10_exact_20220415-224757/11_MLPClassifier_exact/plot_dataset.png" width="200" alt="11_MLPClassifier_exact">
+<img src="GaussianExperiment_1_size10_exact_20220415-224757/2_LogisticRegression_exact/plot_dataset.png" width="200" alt="2_LogisticRegression_exact"><img src="GaussianExperiment_1_size10_exact_20220415-224757/5_LinearSVC_exact/plot_dataset.png" width="200" alt="5_LinearSVC_exact"><img src="GaussianExperiment_1_size10_exact_20220415-224757/8_SVC_rbf_exact/plot_dataset.png" width="200" alt="8_SVC_rbf_exact"><img src="GaussianExperiment_1_size10_exact_20220415-224757/11_MLPClassifier_exact/plot_dataset.png" width="200" alt="11_MLPClassifier_exact">
 
-<img src="GaussianExperiment_1_size10_exact_20220415-224757/2_LogisticRegression_exact/plot_shapley_values.png" width="200" alt="2_LogisticRegression_exact">
-<img src="GaussianExperiment_1_size10_exact_20220415-224757/5_LinearSVC_exact/plot_shapley_values.png" width="200" alt="5_LinearSVC_exact">
-<img src="GaussianExperiment_1_size10_exact_20220415-224757/8_SVC_rbf_exact/plot_shapley_values.png" width="200" alt="8_SVC_rbf_exact">
-<img src="GaussianExperiment_1_size10_exact_20220415-224757/11_MLPClassifier_exact/plot_shapley_values.png" width="200" alt="11_MLPClassifier_exact">
+<img src="GaussianExperiment_1_size10_exact_20220415-224757/2_LogisticRegression_exact/plot_shapley_values.png" width="200" alt="2_LogisticRegression_exact"><img src="GaussianExperiment_1_size10_exact_20220415-224757/5_LinearSVC_exact/plot_shapley_values.png" width="200" alt="5_LinearSVC_exact"><img src="GaussianExperiment_1_size10_exact_20220415-224757/8_SVC_rbf_exact/plot_shapley_values.png" width="200" alt="8_SVC_rbf_exact"><img src="GaussianExperiment_1_size10_exact_20220415-224757/11_MLPClassifier_exact/plot_shapley_values.png" width="200" alt="11_MLPClassifier_exact">
 
 #### Hypothesis
 - **LogisticRegression, LinearSVC**: Shapley values distributed more linearly (i.e. model performance "supported" by few important data points)
@@ -137,68 +83,32 @@
 
 #### GaussianExperiment_2_size100_approx
 ##### 200 permutations
-<img src="GaussianExperiment_2_size100_approx_20220415-224757/0_LogisticRegression_approx200/plot_dataset.png" width="200" alt="0_LogisticRegression_approx200">
-<img src="GaussianExperiment_2_size100_approx_20220415-224757/1_LinearSVC_approx200/plot_dataset.png" width="200" alt="1_LinearSVC_approx200">
-<img src="GaussianExperiment_2_size100_approx_20220415-224757/2_SVC_rbf_approx200/plot_dataset.png" width="200" alt="2_SVC_rbf_approx200">
-<img src="GaussianExperiment_2_size100_approx_20220415-224757/3_MLPClassifier_approx200/plot_dataset.png" width="200" alt="3_MLPClassifier_approx200">
+<img src="GaussianExperiment_2_size100_approx_20220415-224757/0_LogisticRegression_approx200/plot_dataset.png" width="200" alt="0_LogisticRegression_approx200"><img src="GaussianExperiment_2_size100_approx_20220415-224757/1_LinearSVC_approx200/plot_dataset.png" width="200" alt="1_LinearSVC_approx200"><img src="GaussianExperiment_2_size100_approx_20220415-224757/2_SVC_rbf_approx200/plot_dataset.png" width="200" alt="2_SVC_rbf_approx200"><img src="GaussianExperiment_2_size100_approx_20220415-224757/3_MLPClassifier_approx200/plot_dataset.png" width="200" alt="3_MLPClassifier_approx200">
 
-<img src="GaussianExperiment_2_size100_approx_20220415-224757/0_LogisticRegression_approx200/plot_shapley_values.png" width="200" alt="0_LogisticRegression_approx200">
-<img src="GaussianExperiment_2_size100_approx_20220415-224757/1_LinearSVC_approx200/plot_shapley_values.png" width="200" alt="1_LinearSVC_approx200">
-<img src="GaussianExperiment_2_size100_approx_20220415-224757/2_SVC_rbf_approx200/plot_shapley_values.png" width="200" alt="2_SVC_rbf_approx200">
-<img src="GaussianExperiment_2_size100_approx_20220415-224757/3_MLPClassifier_approx200/plot_shapley_values.png" width="200" alt="3_MLPClassifier_approx200">
+<img src="GaussianExperiment_2_size100_approx_20220415-224757/0_LogisticRegression_approx200/plot_shapley_values.png" width="200" alt="0_LogisticRegression_approx200"><img src="GaussianExperiment_2_size100_approx_20220415-224757/1_LinearSVC_approx200/plot_shapley_values.png" width="200" alt="1_LinearSVC_approx200"><img src="GaussianExperiment_2_size100_approx_20220415-224757/2_SVC_rbf_approx200/plot_shapley_values.png" width="200" alt="2_SVC_rbf_approx200"><img src="GaussianExperiment_2_size100_approx_20220415-224757/3_MLPClassifier_approx200/plot_shapley_values.png" width="200" alt="3_MLPClassifier_approx200">
 
 ##### 400 permutations
-<img src="GaussianExperiment_2_size100_approx_20220415-224757/4_LogisticRegression_approx400/plot_dataset.png" width="200" alt="4_LogisticRegression_approx400">
-<img src="GaussianExperiment_2_size100_approx_20220415-224757/5_LinearSVC_approx400/plot_dataset.png" width="200" alt="5_LinearSVC_approx400">
-<img src="GaussianExperiment_2_size100_approx_20220415-224757/6_SVC_rbf_approx400/plot_dataset.png" width="200" alt="6_SVC_rbf_approx400">
-<img src="GaussianExperiment_2_size100_approx_20220415-224757/7_MLPClassifier_approx400/plot_dataset.png" width="200" alt="7_MLPClassifier_approx400">
+<img src="GaussianExperiment_2_size100_approx_20220415-224757/4_LogisticRegression_approx400/plot_dataset.png" width="200" alt="4_LogisticRegression_approx400"><img src="GaussianExperiment_2_size100_approx_20220415-224757/5_LinearSVC_approx400/plot_dataset.png" width="200" alt="5_LinearSVC_approx400"><img src="GaussianExperiment_2_size100_approx_20220415-224757/6_SVC_rbf_approx400/plot_dataset.png" width="200" alt="6_SVC_rbf_approx400"><img src="GaussianExperiment_2_size100_approx_20220415-224757/7_MLPClassifier_approx400/plot_dataset.png" width="200" alt="7_MLPClassifier_approx400">
 
-<img src="GaussianExperiment_2_size100_approx_20220415-224757/4_LogisticRegression_approx400/plot_shapley_values.png" width="200" alt="4_LogisticRegression_approx400">
-<img src="GaussianExperiment_2_size100_approx_20220415-224757/5_LinearSVC_approx400/plot_shapley_values.png" width="200" alt="5_LinearSVC_approx400">
-<img src="GaussianExperiment_2_size100_approx_20220415-224757/6_SVC_rbf_approx400/plot_shapley_values.png" width="200" alt="6_SVC_rbf_approx400">
-<img src="GaussianExperiment_2_size100_approx_20220415-224757/7_MLPClassifier_approx400/plot_shapley_values.png" width="200" alt="7_MLPClassifier_approx400">
+<img src="GaussianExperiment_2_size100_approx_20220415-224757/4_LogisticRegression_approx400/plot_shapley_values.png" width="200" alt="4_LogisticRegression_approx400"><img src="GaussianExperiment_2_size100_approx_20220415-224757/5_LinearSVC_approx400/plot_shapley_values.png" width="200" alt="5_LinearSVC_approx400"><img src="GaussianExperiment_2_size100_approx_20220415-224757/6_SVC_rbf_approx400/plot_shapley_values.png" width="200" alt="6_SVC_rbf_approx400"><img src="GaussianExperiment_2_size100_approx_20220415-224757/7_MLPClassifier_approx400/plot_shapley_values.png" width="200" alt="7_MLPClassifier_approx400">
 
 ##### 600 permutations
-<img src="GaussianExperiment_2_size100_approx_20220415-224757/8_LogisticRegression_approx600/plot_dataset.png" width="200" alt="8_LogisticRegression_approx600">
-<img src="GaussianExperiment_2_size100_approx_20220415-224757/9_LinearSVC_approx600/plot_dataset.png" width="200" alt="9_LinearSVC_approx600">
-<img src="GaussianExperiment_2_size100_approx_20220415-224757/10_SVC_rbf_approx600/plot_dataset.png" width="200" alt="10_SVC_rbf_approx600">
-<img src="GaussianExperiment_2_size100_approx_20220415-224757/11_MLPClassifier_approx600/plot_dataset.png" width="200" alt="11_MLPClassifier_approx600">
+<img src="GaussianExperiment_2_size100_approx_20220415-224757/8_LogisticRegression_approx600/plot_dataset.png" width="200" alt="8_LogisticRegression_approx600"><img src="GaussianExperiment_2_size100_approx_20220415-224757/9_LinearSVC_approx600/plot_dataset.png" width="200" alt="9_LinearSVC_approx600"><img src="GaussianExperiment_2_size100_approx_20220415-224757/10_SVC_rbf_approx600/plot_dataset.png" width="200" alt="10_SVC_rbf_approx600"><img src="GaussianExperiment_2_size100_approx_20220415-224757/11_MLPClassifier_approx600/plot_dataset.png" width="200" alt="11_MLPClassifier_approx600">
 
-<img src="GaussianExperiment_2_size100_approx_20220415-224757/8_LogisticRegression_approx600/plot_shapley_values.png" width="200" alt="8_LogisticRegression_approx600">
-<img src="GaussianExperiment_2_size100_approx_20220415-224757/9_LinearSVC_approx600/plot_shapley_values.png" width="200" alt="9_LinearSVC_approx600">
-<img src="GaussianExperiment_2_size100_approx_20220415-224757/10_SVC_rbf_approx600/plot_shapley_values.png" width="200" alt="10_SVC_rbf_approx600">
-<img src="GaussianExperiment_2_size100_approx_20220415-224757/11_MLPClassifier_approx600/plot_shapley_values.png" width="200" alt="11_MLPClassifier_approx600">
+<img src="GaussianExperiment_2_size100_approx_20220415-224757/8_LogisticRegression_approx600/plot_shapley_values.png" width="200" alt="8_LogisticRegression_approx600"><img src="GaussianExperiment_2_size100_approx_20220415-224757/9_LinearSVC_approx600/plot_shapley_values.png" width="200" alt="9_LinearSVC_approx600"><img src="GaussianExperiment_2_size100_approx_20220415-224757/10_SVC_rbf_approx600/plot_shapley_values.png" width="200" alt="10_SVC_rbf_approx600"><img src="GaussianExperiment_2_size100_approx_20220415-224757/11_MLPClassifier_approx600/plot_shapley_values.png" width="200" alt="11_MLPClassifier_approx600">
 
 #### GaussianExperiment_5_size100_200_approx
 ##### size: 100, permutations: 460
-<img src="GaussianExperiment_5_size100_200_approx_20220415-224814/0_LogisticRegression_approx460/plot_dataset.png" width="200" alt="0_LogisticRegression_approx460">
-<img src="GaussianExperiment_5_size100_200_approx_20220415-224814/1_LinearSVC_approx460/plot_dataset.png" width="200" alt="1_LinearSVC_approx460">
-<img src="GaussianExperiment_5_size100_200_approx_20220415-224814/2_SVC_rbf_approx460/plot_dataset.png" width="200" alt="2_SVC_rbf_approx460">
-<img src="GaussianExperiment_5_size100_200_approx_20220415-224814/3_MLPClassifier_approx460/plot_dataset.png" width="200" alt="3_MLPClassifier_approx460">
+<img src="GaussianExperiment_5_size100_200_approx_20220415-224814/0_LogisticRegression_approx460/plot_dataset.png" width="200" alt="0_LogisticRegression_approx460"><img src="GaussianExperiment_5_size100_200_approx_20220415-224814/1_LinearSVC_approx460/plot_dataset.png" width="200" alt="1_LinearSVC_approx460"><img src="GaussianExperiment_5_size100_200_approx_20220415-224814/2_SVC_rbf_approx460/plot_dataset.png" width="200" alt="2_SVC_rbf_approx460"><img src="GaussianExperiment_5_size100_200_approx_20220415-224814/3_MLPClassifier_approx460/plot_dataset.png" width="200" alt="3_MLPClassifier_approx460">
 
-<img src="GaussianExperiment_5_size100_200_approx_20220415-224814/0_LogisticRegression_approx460/plot_shapley_values.png" width="200" alt="0_LogisticRegression_approx460">
-<img src="GaussianExperiment_5_size100_200_approx_20220415-224814/1_LinearSVC_approx460/plot_shapley_values.png" width="200" alt="1_LinearSVC_approx460">
-<img src="GaussianExperiment_5_size100_200_approx_20220415-224814/2_SVC_rbf_approx460/plot_shapley_values.png" width="200" alt="2_SVC_rbf_approx460">
-<img src="GaussianExperiment_5_size100_200_approx_20220415-224814/3_MLPClassifier_approx460/plot_shapley_values.png" width="200" alt="3_MLPClassifier_approx460">
+<img src="GaussianExperiment_5_size100_200_approx_20220415-224814/0_LogisticRegression_approx460/plot_shapley_values.png" width="200" alt="0_LogisticRegression_approx460"><img src="GaussianExperiment_5_size100_200_approx_20220415-224814/1_LinearSVC_approx460/plot_shapley_values.png" width="200" alt="1_LinearSVC_approx460"><img src="GaussianExperiment_5_size100_200_approx_20220415-224814/2_SVC_rbf_approx460/plot_shapley_values.png" width="200" alt="2_SVC_rbf_approx460"><img src="GaussianExperiment_5_size100_200_approx_20220415-224814/3_MLPClassifier_approx460/plot_shapley_values.png" width="200" alt="3_MLPClassifier_approx460">
 
 ##### size: 200, permutations: 1060
-<img src="GaussianExperiment_5_size100_200_approx_20220419-085006/0_LogisticRegression_approx1060/plot_dataset.png" width="200" alt="0_LogisticRegression_approx1060">
-<img src="GaussianExperiment_5_size100_200_approx_20220419-085006/1_LinearSVC_approx1060/plot_dataset.png" width="200" alt="1_LinearSVC_approx1060">
-<img src="GaussianExperiment_5_size100_200_approx_20220419-085006/2_SVC_rbf_approx1060/plot_dataset.png" width="200" alt="2_SVC_rbf_approx1060">
-<img src="GaussianExperiment_5_size100_200_approx_20220419-085006/3_MLPClassifier_approx1060/plot_dataset.png" width="200" alt="3_MLPClassifier_approx1060">
+<img src="GaussianExperiment_5_size100_200_approx_20220419-085006/0_LogisticRegression_approx1060/plot_dataset.png" width="200" alt="0_LogisticRegression_approx1060"><img src="GaussianExperiment_5_size100_200_approx_20220419-085006/1_LinearSVC_approx1060/plot_dataset.png" width="200" alt="1_LinearSVC_approx1060"><img src="GaussianExperiment_5_size100_200_approx_20220419-085006/2_SVC_rbf_approx1060/plot_dataset.png" width="200" alt="2_SVC_rbf_approx1060"><img src="GaussianExperiment_5_size100_200_approx_20220419-085006/3_MLPClassifier_approx1060/plot_dataset.png" width="200" alt="3_MLPClassifier_approx1060">
 
-<img src="GaussianExperiment_5_size100_200_approx_20220419-085006/0_LogisticRegression_approx1060/plot_shapley_values.png" width="200" alt="0_LogisticRegression_approx1060">
-<img src="GaussianExperiment_5_size100_200_approx_20220419-085006/1_LinearSVC_approx1060/plot_shapley_values.png" width="200" alt="1_LinearSVC_approx1060">
-<img src="GaussianExperiment_5_size100_200_approx_20220419-085006/2_SVC_rbf_approx1060/plot_shapley_values.png" width="200" alt="2_SVC_rbf_approx1060">
-<img src="GaussianExperiment_5_size100_200_approx_20220419-085006/3_MLPClassifier_approx1060/plot_shapley_values.png" width="200" alt="3_MLPClassifier_approx1060">
+<img src="GaussianExperiment_5_size100_200_approx_20220419-085006/0_LogisticRegression_approx1060/plot_shapley_values.png" width="200" alt="0_LogisticRegression_approx1060"><img src="GaussianExperiment_5_size100_200_approx_20220419-085006/1_LinearSVC_approx1060/plot_shapley_values.png" width="200" alt="1_LinearSVC_approx1060"><img src="GaussianExperiment_5_size100_200_approx_20220419-085006/2_SVC_rbf_approx1060/plot_shapley_values.png" width="200" alt="2_SVC_rbf_approx1060"><img src="GaussianExperiment_5_size100_200_approx_20220419-085006/3_MLPClassifier_approx1060/plot_shapley_values.png" width="200" alt="3_MLPClassifier_approx1060">
 
 ##### size: 400, permutations: 2400
-<img src="GaussianExperiment_6_size400_approx_20220415-234508/0_LogisticRegression_approx2400/plot_dataset.png" width="200" alt="0_LogisticRegression_approx2400">
-<img src="GaussianExperiment_6_size400_approx_20220415-234508/1_LinearSVC_approx2400/plot_dataset.png" width="200" alt="1_LinearSVC_approx2400">
-<img src="GaussianExperiment_6_size400_approx_20220419-083451/0_SVC_rbf_approx2400/plot_dataset.png" width="200" alt="0_SVC_rbf_approx2400">
-<img src="GaussianExperiment_6_size400_approx_20220419-083906/0_MLPClassifier_approx2400/plot_dataset.png" width="200" alt="0_MLPClassifier_approx2400">
+<img src="GaussianExperiment_6_size400_approx_20220415-234508/0_LogisticRegression_approx2400/plot_dataset.png" width="200" alt="0_LogisticRegression_approx2400"><img src="GaussianExperiment_6_size400_approx_20220415-234508/1_LinearSVC_approx2400/plot_dataset.png" width="200" alt="1_LinearSVC_approx2400"><img src="GaussianExperiment_6_size400_approx_20220419-083451/0_SVC_rbf_approx2400/plot_dataset.png" width="200" alt="0_SVC_rbf_approx2400"><img src="GaussianExperiment_6_size400_approx_20220419-083906/0_MLPClassifier_approx2400/plot_dataset.png" width="200" alt="0_MLPClassifier_approx2400">
 
-<img src="GaussianExperiment_6_size400_approx_20220415-234508/0_LogisticRegression_approx2400/plot_shapley_values.png" width="200" alt="0_LogisticRegression_approx2400">
-<img src="GaussianExperiment_6_size400_approx_20220415-234508/1_LinearSVC_approx2400/plot_shapley_values.png" width="200" alt="1_LinearSVC_approx2400">
-<img src="GaussianExperiment_6_size400_approx_20220419-083451/0_SVC_rbf_approx2400/plot_shapley_values.png" width="200" alt="0_SVC_rbf_approx2400">
-<img src="GaussianExperiment_6_size400_approx_20220419-083906/0_MLPClassifier_approx2400/plot_shapley_values.png" width="200" alt="0_MLPClassifier_approx2400">
+<img src="GaussianExperiment_6_size400_approx_20220415-234508/0_LogisticRegression_approx2400/plot_shapley_values.png" width="200" alt="0_LogisticRegression_approx2400"><img src="GaussianExperiment_6_size400_approx_20220415-234508/1_LinearSVC_approx2400/plot_shapley_values.png" width="200" alt="1_LinearSVC_approx2400"><img src="GaussianExperiment_6_size400_approx_20220419-083451/0_SVC_rbf_approx2400/plot_shapley_values.png" width="200" alt="0_SVC_rbf_approx2400"><img src="GaussianExperiment_6_size400_approx_20220419-083906/0_MLPClassifier_approx2400/plot_shapley_values.png" width="200" alt="0_MLPClassifier_approx2400">
