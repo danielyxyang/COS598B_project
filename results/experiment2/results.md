@@ -1,6 +1,16 @@
 # COS598 - Final Project
 ## Results of `experiment2`
 
+### Setup
+- Dataset
+    - Gaussian 1: $\mu_1 = \begin{pmatrix}2 \\ -2\end{pmatrix}$ and $\Sigma_1 = V_1 \Lambda_1 V_1^T$ with $\Lambda_1 = \begin{pmatrix}3 & 0 \\ 0 & 1\end{pmatrix}$ and $V_1 = \begin{pmatrix}1 & 1 \\ 1 & -1\end{pmatrix}$
+    - Gaussian 2: $\mu_2 = \begin{pmatrix}-2 \\ 2\end{pmatrix}$ and $\Sigma_2 = V_2 \Lambda_2 V_2^T$ with $\Lambda_2 = \begin{pmatrix}3 & 0 \\ 0 & 1\end{pmatrix}$ and $V_2 = \begin{pmatrix}1 & 1 \\ 1 & -1\end{pmatrix}$
+- Models
+    - LogisticRegression (LR)
+    - LinearSVC (SVC_lin)
+    - SVC with RBF kernel (SVC_rbf)
+    - MLPClassifier with (10, 10) layers (MLP)
+
 ### Exact Shapley values
 
 \#| \| |size train|size test|num perm|seed| \| |size total|num eval| \| |LR|SVC_lin|SVC_rbf|MLP
