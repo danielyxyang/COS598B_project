@@ -1,5 +1,5 @@
 {
-  "experiment": "GaussianExperimentB-3-size200_approx/0-MLPClassifier_approx1060-full",
+  "experiment": "GaussianExperimentB-3-size200_approx/0-MLPClassifier_approx1060-without2",
   "seed": 0,
   "num_permutations": 1060,
   "dataset_train": {
@@ -135,5 +135,10 @@
   "solver": {
     "seed": 511
   },
-  "ignore": null
+  "ignore": [
+    337,
+    359,
+    17,
+    116
+  ]
 }
