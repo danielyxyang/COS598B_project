@@ -1,0 +1,125 @@
+{
+  "experiment": "GaussianExperimentC-1-size10_exact/4-LinearSVC-exact-test",
+  "seed": 1,
+  "num_permutations": null,
+  "dataset_train": {
+    "gaussians": {
+      "1": {
+        "mean": [
+          -1,
+          1
+        ],
+        "cov": [
+          [
+            4,
+            2
+          ],
+          [
+            2,
+            4
+          ]
+        ]
+      },
+      "-1": {
+        "mean": [
+          1,
+          -1
+        ],
+        "cov": [
+          [
+            4,
+            2
+          ],
+          [
+            2,
+            4
+          ]
+        ]
+      }
+    },
+    "sizes": [
+      10,
+      10
+    ],
+    "seed": 473
+  },
+  "dataset_test": {
+    "gaussians": {
+      "1": {
+        "mean": [
+          -1,
+          1
+        ],
+        "cov": [
+          [
+            4,
+            2
+          ],
+          [
+            2,
+            4
+          ]
+        ]
+      },
+      "-1": {
+        "mean": [
+          1,
+          -1
+        ],
+        "cov": [
+          [
+            4,
+            2
+          ],
+          [
+            2,
+            4
+          ]
+        ]
+      }
+    },
+    "sizes": [
+      100,
+      100
+    ],
+    "seed": 511
+  },
+  "utility": {
+    "model_name": "Pipeline",
+    "model": {
+      "memory": null,
+      "steps": [
+        [
+          "standardscaler",
+          "StandardScaler"
+        ],
+        [
+          "linearsvc",
+          "LinearSVC"
+        ]
+      ],
+      "verbose": false,
+      "standardscaler": "StandardScaler",
+      "linearsvc": "LinearSVC",
+      "standardscaler__copy": true,
+      "standardscaler__with_mean": true,
+      "standardscaler__with_std": true,
+      "linearsvc__C": 1.0,
+      "linearsvc__class_weight": null,
+      "linearsvc__dual": true,
+      "linearsvc__fit_intercept": true,
+      "linearsvc__intercept_scaling": 1,
+      "linearsvc__loss": "squared_hinge",
+      "linearsvc__max_iter": 1000,
+      "linearsvc__multi_class": "ovr",
+      "linearsvc__penalty": "l2",
+      "linearsvc__random_state": null,
+      "linearsvc__tol": 0.0001,
+      "linearsvc__verbose": 0
+    }
+  },
+  "solver": {
+    "seed": 755
+  },
+  "ignore": []
+}
