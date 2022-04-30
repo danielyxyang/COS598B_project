@@ -11,6 +11,13 @@
     - SVC with RBF kernel (SVC_rbf)
     - MLPClassifier with (10, 10) layers (MLP)
 
+### Hypothesis
+- Dataset dependence of Shapley values
+    - magnitude of Shapley values depending on other data points
+        - removing data points can heavily change ranking of data points based Shapley values (i.e. removed importance distributed unevenly to other data points)
+    - sign of Shapley values mostly independent on other data points
+        - removing data points mostly do not change sign of Shapley values
+
 ### Exact Shapley values
 
 \#| \| |size train|size test|num perm|seed|without| \| |size total|num eval| \| |LR|SVC_lin|SVC_rbf|MLP

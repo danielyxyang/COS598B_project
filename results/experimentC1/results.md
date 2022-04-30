@@ -1,5 +1,5 @@
 # COS598 - Final Project
-## Results of `experimentB1`
+## Results of `experimentC1`
 
 ### Setup
 - Dataset
@@ -10,6 +10,13 @@
     - LinearSVC (SVC_lin)
     - SVC with RBF kernel (SVC_rbf)
     - MLPClassifier with (10, 10) layers (MLP)
+
+### Hypothesis
+- **LogisticRegression, LinearSVC**: very similar Shapley values based on test and train dataset very similar
+- **SVC_rbf, MLPClassifier**: more deviations between Shapley values based on test and train dataset
+- Evaluation metric dependence of Shapley values
+    - LogisticRegression and LinearSVC more robust to overfitting (since regularized to linear decision boundary)
+    - small overfitting for MLPClassifier-approx460 (since points with positive SV on train dataset have negative SV on test datasets)
 
 ### Exact Shapley values
 

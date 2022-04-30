@@ -11,6 +11,18 @@
     - SVC with RBF kernel (SVC_rbf)
     - MLPClassifier with (10, 10) layers (MLP)
 
+### Hypothesis
+- **LogisticRegression, LinearSVC, SVC_rbf**: short-tailed distribution of Shapley values 
+    - model less sensitive to impact of data points (because regularized to linear decision boundary)
+    - almost all data points improve model accuracy, more data points always better
+- **MLPClassifier**: long-tailed distribution of Shapley values
+    - model more sensitive to good and bad datapoints
+    - major part of performance supported by few data points 
+    - few data points can decrease model accuracy very heavily, better to filter data points before using
+- Model dependence of Shapley values
+    - magnitude of Shapley values differ between models
+    - sign of Shapley values mostly the same between models
+
 ### Exact Shapley values
 
 \#| \| |size train|size test|num perm|seed| \| |size total|num eval| \| |LR|SVC_lin|SVC_rbf|MLP
@@ -109,11 +121,6 @@
 
 <img src="GaussianExperiment_1_size10_exact/2_LogisticRegression_exact/plot_shapley_values_sorted.png" width="200" alt="2_LogisticRegression_exact"><img src="GaussianExperiment_1_size10_exact/5_LinearSVC_exact/plot_shapley_values_sorted.png" width="200" alt="5_LinearSVC_exact"><img src="GaussianExperiment_1_size10_exact/8_SVC_rbf_exact/plot_shapley_values_sorted.png" width="200" alt="8_SVC_rbf_exact"><img src="GaussianExperiment_1_size10_exact/11_MLPClassifier_exact/plot_shapley_values_sorted.png" width="200" alt="11_MLPClassifier_exact">
 
-#### Hypothesis
-- **LogisticRegression, LinearSVC**: Shapley values distributed more linearly (i.e. model performance "supported" by few important data points)
-- **SVC_rbf**: Shapley values distributed more homogeneously (i.e. model performance "supported" by multiple data points)
-- **MLPClassifier**: Shapley values distributed more homogeneously, but bad data points with much smaller Shapley values (i.e. model performance sensitive by bad data points)
-
 ---------------------------------------
 
 ### Approximate Shapley values
@@ -183,6 +190,7 @@
 
 <img src="GaussianExperiment_5_size100_200_approx/4_LogisticRegression_approx1060/plot_shapley_values_sorted.png" width="200" alt="4_LogisticRegression_approx1060"><img src="GaussianExperiment_5_size100_200_approx/5_LinearSVC_approx1060/plot_shapley_values_sorted.png" width="200" alt="5_LinearSVC_approx1060"><img src="GaussianExperiment_5_size100_200_approx/6_SVC_rbf_approx1060/plot_shapley_values_sorted.png" width="200" alt="6_SVC_rbf_approx1060"><img src="GaussianExperiment_5_size100_200_approx/7_MLPClassifier_approx1060/plot_shapley_values_sorted.png" width="200" alt="7_MLPClassifier_approx1060">
 
+#### GaussianExperiment_6_size400_approx
 ##### size: 400, permutations: 2400
 <img src="GaussianExperiment_6_size400_approx/0_LogisticRegression_approx2400/plot_dataset.png" width="200" alt="0_LogisticRegression_approx2400"><img src="GaussianExperiment_6_size400_approx/1_LinearSVC_approx2400/plot_dataset.png" width="200" alt="1_LinearSVC_approx2400"><img src="GaussianExperiment_6_size400_approx/2_SVC_rbf_approx2400/plot_dataset.png" width="200" alt="2_SVC_rbf_approx2400"><img src="GaussianExperiment_6_size400_approx/3_MLPClassifier_approx2400/plot_dataset.png" width="200" alt="3_MLPClassifier_approx2400">
 
