@@ -20,7 +20,7 @@
 
 ### Exact Shapley values
 
-\#| \| |size train|size test|num perm|seed|without| \| |size total|num eval| \| |LR|SVC_lin|SVC_rbf|MLP
+\#| \| |size train|size test|num perm|seed|withoutTop| \| |size total|num eval| \| |LR|SVC_lin|SVC_rbf|MLP
 -| - |-|-|-|-|-| - |-|-| - |-|-|-|-
 1-size10_exact| \| |10|100|None|**0**|**full**| \| |20|20M| \| |0.7100 / 56:02|0.7700 / 22:43|0.5900 / 14:56|0.6750 / 3:33:36
 1-size10_exact| \| |10|100|None|**0**|**1**| \| |18|4M| \| |0.6250 / 00:15|0.6800 / 00:13|0.5750 / 00:13|0.4350 / 00:13
@@ -124,7 +124,7 @@
 
 ### Approximate Shapley values
 
-\#| \| |size train|size test|num perm|seed|without| \| |size total|num eval| \| |LR|SVC_lin|SVC_rbf|MLP
+\#| \| |size train|size test|num perm|seed|withoutTop| \| |size total|num eval| \| |LR|SVC_lin|SVC_rbf|MLP
 -| - |-|-|-|-|-| - |-|-| - |-|-|-|-
 2-size100_approx| \| |100|1000|**460**|**0**|**full**| \| |200|92K| \| |0.8230 / 08:10|0.8245 / 04:50|0.7820 / 16:27|0.7744 / 2:02:41
 2-size100_approx| \| |100|1000|**460**|**0**|**1**| \| |198|91K| \| |0.8235 / 07:48|0.8245 / 04:44|0.7677 / 15:35|0.7713 / 1:57:17
@@ -197,7 +197,7 @@
 
 <img src="GaussianExperimentB-3-size200_approx/3-MLPClassifier_approx1060-full/plot_shapley_values_sorted.png" width="200" alt="3-MLPClassifier_approx1060-full"><img src="GaussianExperimentB-3-size200_approx/3-MLPClassifier_approx1060-without2/plot_shapley_values_sorted.png" width="200" alt="3-MLPClassifier_approx1060-without2"><img src="GaussianExperimentB-3-size200_approx/3-MLPClassifier_approx1060-without10/plot_shapley_values_sorted.png" width="200" alt="3-MLPClassifier_approx1060-without10"><img src="GaussianExperimentB-3-size200_approx/3-MLPClassifier_approx1060-without20/plot_shapley_values_sorted.png" width="200" alt="3-MLPClassifier_approx1060-without20">
 
-#### GaussianExperimentB-4-size200_approx
+#### GaussianExperimentB-4-size400_approx
 ##### LogisticRegression
 <img src="GaussianExperimentB-4-size400_approx/0-LogisticRegression_approx2400-full/plot_dataset.png" width="200" alt="0-LogisticRegression_approx2400-full"><img src="GaussianExperimentB-4-size400_approx/0-LogisticRegression_approx2400-without4/plot_dataset.png" width="200" alt="0-LogisticRegression_approx2400-without4"><img src="GaussianExperimentB-4-size400_approx/0-LogisticRegression_approx2400-without20/plot_dataset.png" width="200" alt="0-LogisticRegression_approx2400-without20"><img src="GaussianExperimentB-4-size400_approx/0-LogisticRegression_approx2400-without40/plot_dataset.png" width="200" alt="0-LogisticRegression_approx2400-without40">
 

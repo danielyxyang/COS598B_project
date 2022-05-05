@@ -193,7 +193,7 @@
 
 <img src="GaussianExperimentB-3-size200_approx/3-MLPClassifier-approx1060-full/plot_shapley_values_sorted.png" width="200" alt="3-MLPClassifier-approx1060-full"><img src="GaussianExperimentB-3-size200_approx/3-MLPClassifier-approx1060-withoutBottom2/plot_shapley_values_sorted.png" width="200" alt="3-MLPClassifier-approx1060-withoutBottom2"><img src="GaussianExperimentB-3-size200_approx/3-MLPClassifier-approx1060-withoutBottom10/plot_shapley_values_sorted.png" width="200" alt="3-MLPClassifier-approx1060-withoutBottom10"><img src="GaussianExperimentB-3-size200_approx/3-MLPClassifier-approx1060-withoutBottom20/plot_shapley_values_sorted.png" width="200" alt="3-MLPClassifier-approx1060-withoutBottom20">
 
-#### GaussianExperimentB-4-size200_approx
+#### GaussianExperimentB-4-size400_approx
 ##### LogisticRegression
 <img src="GaussianExperimentB-4-size400_approx/0-LogisticRegression-approx2400-full/plot_dataset.png" width="200" alt="0-LogisticRegression-approx2400-full"><img src="GaussianExperimentB-4-size400_approx/0-LogisticRegression-approx2400-withoutBottom4/plot_dataset.png" width="200" alt="0-LogisticRegression-approx2400-withoutBottom4"><img src="GaussianExperimentB-4-size400_approx/0-LogisticRegression-approx2400-withoutBottom20/plot_dataset.png" width="200" alt="0-LogisticRegression-approx2400-withoutBottom20"><img src="GaussianExperimentB-4-size400_approx/0-LogisticRegression-approx2400-withoutBottom40/plot_dataset.png" width="200" alt="0-LogisticRegression-approx2400-withoutBottom40">
 
