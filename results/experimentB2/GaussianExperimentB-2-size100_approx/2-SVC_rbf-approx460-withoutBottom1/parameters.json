@@ -1,0 +1,114 @@
+{
+  "experiment": "GaussianExperimentB-2-size100_approx/2-SVC_rbf-approx460-withoutBottom1",
+  "seed": 0,
+  "num_permutations": 460,
+  "dataset_train": {
+    "gaussians": {
+      "1": {
+        "mean": [
+          -1,
+          1
+        ],
+        "cov": [
+          [
+            4,
+            2
+          ],
+          [
+            2,
+            4
+          ]
+        ]
+      },
+      "-1": {
+        "mean": [
+          1,
+          -1
+        ],
+        "cov": [
+          [
+            4,
+            2
+          ],
+          [
+            2,
+            4
+          ]
+        ]
+      }
+    },
+    "sizes": [
+      100,
+      100
+    ],
+    "seed": 850
+  },
+  "dataset_test": {
+    "gaussians": {
+      "1": {
+        "mean": [
+          -1,
+          1
+        ],
+        "cov": [
+          [
+            4,
+            2
+          ],
+          [
+            2,
+            4
+          ]
+        ]
+      },
+      "-1": {
+        "mean": [
+          1,
+          -1
+        ],
+        "cov": [
+          [
+            4,
+            2
+          ],
+          [
+            2,
+            4
+          ]
+        ]
+      }
+    },
+    "sizes": [
+      1000,
+      1000
+    ],
+    "seed": 636
+  },
+  "utility": {
+    "model_name": "SVC",
+    "model": {
+      "C": 1.0,
+      "break_ties": false,
+      "cache_size": 200,
+      "class_weight": null,
+      "coef0": 0.0,
+      "decision_function_shape": "ovr",
+      "degree": 3,
+      "gamma": 0.7,
+      "kernel": "rbf",
+      "max_iter": -1,
+      "probability": false,
+      "random_state": null,
+      "shrinking": true,
+      "tol": 0.001,
+      "verbose": false
+    }
+  },
+  "solver": {
+    "seed": 511
+  },
+  "ignore": [
+    164,
+    14
+  ]
+}
