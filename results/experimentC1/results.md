@@ -79,8 +79,8 @@
 2-size100_approx| \| |100|1000|**460**|**0**|**train**| \| |200|92K| \| |0.8300 / 03:50|0.8300 / 02:21|0.8650 / 02:58|0.8779 / 1:33:43
 3-size200_approx| \| |200|1000|**1060**|**0**|**test**| \| |400|424K| \| |0.8285 / 27:07|0.8275 / 23:16|0.8105 / 2:01:17|0.7935 / 11:17:05
 3-size200_approx| \| |200|1000|**1060**|**0**|**train**| \| |400|424K| \| |0.8350 / 20:59|0.8375 / 17:14|0.8550 / 41:12|0.8488 / 9:59:20
-4-size400_approx| \| |400|1000|**2400**|**0**|**test**| \| |800|1.9M| \| |0.8265 / 2:23:29|0.8260 / 2:39:28|0.8180 / 18:04:43|TBD
-4-size400_approx| \| |400|1000|**2400**|**0**|**train**| \| |800|1.9M| \| |0.8337 / 2:11:58|0.8337 / 2:17:36|TBD|TBD
+4-size400_approx| \| |400|1000|**2400**|**0**|**test**| \| |800|1.9M| \| |0.8265 / 2:23:29|0.8260 / 2:39:28|0.8180 / 18:04:43|0.8260 / 55:48:03
+4-size400_approx| \| |400|1000|**2400**|**0**|**train**| \| |800|1.9M| \| |0.8337 / 2:11:58|0.8337 / 2:17:36|0.8500 / 10:18:19|0.8406 / 47:47:29
 
 #### GaussianExperimentC-2-size100_approx
 <img src="GaussianExperimentC-2-size100_approx/0-LogisticRegression-approx460-test/plot_dataset.png" width="200" alt="0-LogisticRegression-approx460-test"><img src="GaussianExperimentC-2-size100_approx/0-LogisticRegression-approx460-train/plot_dataset.png" width="200" alt="0-LogisticRegression-approx460-train"><img src="GaussianExperimentC-2-size100_approx/1-LinearSVC-approx460-test/plot_dataset.png" width="200" alt="1-LinearSVC-approx460-test"><img src="GaussianExperimentC-2-size100_approx/1-LinearSVC-approx460-train/plot_dataset.png" width="200" alt="1-LinearSVC-approx460-train">
