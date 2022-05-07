@@ -1,0 +1,209 @@
+{
+  "experiment": "GaussianExperimentB-4-size400_approx/0-LogisticRegression-approx2400-withoutBottom40",
+  "seed": 0,
+  "num_permutations": 2400,
+  "dataset_train": {
+    "gaussians": {
+      "1": {
+        "mean": [
+          -1,
+          1
+        ],
+        "cov": [
+          [
+            4,
+            2
+          ],
+          [
+            2,
+            4
+          ]
+        ]
+      },
+      "-1": {
+        "mean": [
+          1,
+          -1
+        ],
+        "cov": [
+          [
+            4,
+            2
+          ],
+          [
+            2,
+            4
+          ]
+        ]
+      }
+    },
+    "sizes": [
+      400,
+      400
+    ],
+    "seed": 850
+  },
+  "dataset_test": {
+    "gaussians": {
+      "1": {
+        "mean": [
+          -1,
+          1
+        ],
+        "cov": [
+          [
+            4,
+            2
+          ],
+          [
+            2,
+            4
+          ]
+        ]
+      },
+      "-1": {
+        "mean": [
+          1,
+          -1
+        ],
+        "cov": [
+          [
+            4,
+            2
+          ],
+          [
+            2,
+            4
+          ]
+        ]
+      }
+    },
+    "sizes": [
+      1000,
+      1000
+    ],
+    "seed": 636
+  },
+  "utility": {
+    "model_name": "Pipeline",
+    "model": {
+      "memory": null,
+      "steps": [
+        [
+          "standardscaler",
+          "StandardScaler"
+        ],
+        [
+          "logisticregression",
+          "LogisticRegression"
+        ]
+      ],
+      "verbose": false,
+      "standardscaler": "StandardScaler",
+      "logisticregression": "LogisticRegression",
+      "standardscaler__copy": true,
+      "standardscaler__with_mean": true,
+      "standardscaler__with_std": true,
+      "logisticregression__C": 1.0,
+      "logisticregression__class_weight": null,
+      "logisticregression__dual": false,
+      "logisticregression__fit_intercept": true,
+      "logisticregression__intercept_scaling": 1,
+      "logisticregression__l1_ratio": null,
+      "logisticregression__max_iter": 100,
+      "logisticregression__multi_class": "auto",
+      "logisticregression__n_jobs": null,
+      "logisticregression__penalty": "l2",
+      "logisticregression__random_state": null,
+      "logisticregression__solver": "lbfgs",
+      "logisticregression__tol": 0.0001,
+      "logisticregression__verbose": 0,
+      "logisticregression__warm_start": false
+    }
+  },
+  "solver": {
+    "seed": 511
+  },
+  "ignore": [
+    432,
+    441,
+    759,
+    715,
+    429,
+    560,
+    458,
+    485,
+    750,
+    580,
+    422,
+    671,
+    732,
+    767,
+    404,
+    574,
+    667,
+    466,
+    644,
+    540,
+    605,
+    656,
+    658,
+    704,
+    741,
+    577,
+    582,
+    401,
+    403,
+    772,
+    703,
+    628,
+    669,
+    639,
+    430,
+    590,
+    662,
+    787,
+    713,
+    678,
+    324,
+    167,
+    275,
+    181,
+    289,
+    101,
+    236,
+    84,
+    110,
+    394,
+    14,
+    347,
+    147,
+    16,
+    92,
+    218,
+    15,
+    173,
+    265,
+    365,
+    198,
+    190,
+    280,
+    2,
+    139,
+    207,
+    391,
+    79,
+    24,
+    123,
+    294,
+    273,
+    126,
+    96,
+    209,
+    319,
+    203,
+    51,
+    384,
+    95
+  ]
+}

@@ -12,7 +12,9 @@
     - MLPClassifier with (10, 10) layers (MLP)
 
 ### Hypothesis
-- TBD
+- Overfitting or non-regularized model based on distribution of Shapley values
+    - heavy-tailed distribution --> model potentially overfitting to dataset (model performance only based on very few data points)
+    - uniform distribution of Shapley values --> model potentially generalizing better (model performance based on many data points)
 
 ### Exact Shapley values
 
@@ -130,10 +132,10 @@
 3-size200_approx| \| |200|1000|**1060**|**0**|**2**| \| |396|420K| \| |0.8285 / 38:00|0.8270 / 27:42|0.8130 / 2:17:48|0.8101 / 12:06:45
 3-size200_approx| \| |200|1000|**1060**|**0**|**10**| \| |380|403K| \| |0.8270 / 39:29|0.8260 / 24:10|0.8190 / 1:59:07|0.8195 / 11:04:40
 3-size200_approx| \| |200|1000|**1060**|**0**|**20**| \| |360|382K| \| |0.8270 / 31:49|0.8275 / 18:31|0.8185 / 1:28:57|0.8180 / 9:15:07
-4-size400_approx| \| |400|1000|**2400**|**0**|**full**| \| |800|1.9M| \| |0.8265 / 2:44:49|0.8260 / 2:44:08|0.8180 / 19:31:30|TBD
-4-size400_approx| \| |400|1000|**2400**|**0**|**4**| \| |792|1.9M| \| |TBD|TBD|TBD|TBD
-4-size400_approx| \| |400|1000|**2400**|**0**|**20**| \| |760|1.8M| \| |TBD|TBD|TBD|TBD
-4-size400_approx| \| |400|1000|**2400**|**0**|**40**| \| |720|1.7M| \| |TBD|TBD|TBD|TBD
+4-size400_approx| \| |400|1000|**2400**|**0**|**full**| \| |800|1.9M| \| |0.8265 / 2:44:49|0.8260 / 2:44:08|0.8180 / 19:31:30|0.8260 / 60:56:26
+4-size400_approx| \| |400|1000|**2400**|**0**|**4**| \| |792|1.9M| \| |0.8285 / 3:24:47|0.8285 / 3:02:57|0.8170 / 19:11:06|TBD
+4-size400_approx| \| |400|1000|**2400**|**0**|**20**| \| |760|1.8M| \| |0.8235 / 3:13:08|0.8260 / 2:21:40|0.8175 / 14:56:02|0.8196 / 56:21:25
+4-size400_approx| \| |400|1000|**2400**|**0**|**40**| \| |720|1.7M| \| |0.8260 / 2:29:11|0.8260 / 1:51:08|0.8255 / 10:14:38|0.8214 / 50:22:50
 
 #### GaussianExperimentB-2-size100_approx
 ##### LogisticRegression
